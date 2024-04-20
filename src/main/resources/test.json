@@ -1,0 +1,17 @@
+{
+  "version" : 1,
+  "id" : "test_stat",
+  "affect_on" : {
+    "items" : {
+      "min_level" : 10,
+      "max_level": 100,
+      "item_type" : ["sword", "shield"]
+    }
+  },
+  "stats" : {
+    "min": 0.5,
+    "max": 1.0,
+    "type": "FLAT",
+    "stat": "health"
+  }
+}

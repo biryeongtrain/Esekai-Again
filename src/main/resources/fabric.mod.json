@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "esekai-again",
+  "version": "${version}",
+  "name": "ESekai-Again",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/kb100/ESekai-Again"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/esekai-again/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "client": [
+      "com.biryeongtrain.esekaiagain.client.ESekai_AgainClient"
+    ],
+    "main": [
+      "com.biryeongtrain.esekaiagain.ESekai"
+    ]
+  },
+  "mixins": [
+    "esekai-again.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
