@@ -1,4 +1,4 @@
-package com.biryeongtrain.esekaiagain.impl.stat;
+package com.biryeongtrain.esekaiagain.stat;
 
 import net.minecraft.util.Identifier;
 import org.jetbrains.annotations.NotNull;

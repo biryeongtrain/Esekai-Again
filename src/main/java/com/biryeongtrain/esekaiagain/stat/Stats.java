@@ -1,4 +1,4 @@
-package com.biryeongtrain.esekaiagain.impl.stat;
+package com.biryeongtrain.esekaiagain.stat;
 
 import static com.biryeongtrain.esekaiagain.util.IdentifierUtil.toId;
 

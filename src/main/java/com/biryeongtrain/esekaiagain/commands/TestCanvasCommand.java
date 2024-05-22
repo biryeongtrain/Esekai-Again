@@ -1,4 +1,4 @@
-package com.biryeongtrain.esekaiagain.impl.commands;
+package com.biryeongtrain.esekaiagain.commands;
 
 import com.biryeongtrain.esekaiagain.canvas.TestCanvas;
 import com.mojang.brigadier.context.CommandContext;

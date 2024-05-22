@@ -1,4 +1,4 @@
-package com.biryeongtrain.esekaiagain.impl.stat.modifier;
+package com.biryeongtrain.esekaiagain.stat.modifier;
 
 import com.biryeongtrain.esekaiagain.slot.SlotType;
 

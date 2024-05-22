@@ -1,7 +1,7 @@
 package com.biryeongtrain.esekaiagain.entity;
 
-import com.biryeongtrain.esekaiagain.impl.stat.Stat;
-import com.biryeongtrain.esekaiagain.impl.stat.StatIncreaseType;
+import com.biryeongtrain.esekaiagain.stat.Stat;
+import com.biryeongtrain.esekaiagain.stat.StatIncreaseType;
 import net.minecraft.util.Identifier;
 
 public interface StatHolder {

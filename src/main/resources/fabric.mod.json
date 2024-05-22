@@ -10,11 +10,8 @@
   },
   "license": "All-Rights-Reserved",
   "icon": "assets/esekai-again/icon.png",
-  "environment": "server",
+  "environment": "*",
   "entrypoints": {
-    "client": [
-      "com.biryeongtrain.esekaiagain.client.ESekai_AgainClient"
-    ],
     "main": [
       "com.biryeongtrain.esekaiagain.ESekai"
     ]

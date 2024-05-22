@@ -1,4 +1,4 @@
-package com.biryeongtrain.esekaiagain.impl.stat;
+package com.biryeongtrain.esekaiagain.stat;
 
 import com.biryeongtrain.esekaiagain.entity.StatHolder;
 import net.minecraft.util.Identifier;
